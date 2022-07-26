@@ -1,0 +1,32 @@
+.note{
+    font-size: 13px;
+    color: black;
+}
+.tag{
+    width: 100%;
+    font-size: xx-large;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+.speed{
+    float: left;
+}
+#speddy{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+.volume{
+    float: right;
+}
+#lod{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+canvas{
+    background-color: black;
+    margin-top: 60px;
+}
